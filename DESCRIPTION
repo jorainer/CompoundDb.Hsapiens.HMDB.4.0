@@ -1,0 +1,14 @@
+Package: CompoundDb.Hsapiens.HMDB.4.0
+Title: HMDB compound annotation package
+Description: Exposes a CompoundDb compound annotation databases with annotations retrieved from HMDB.
+Version: 0.1.0
+Author: Johannes Rainer
+Maintainer: Johannes Rainer <johannes.rainer@eurac.edu>
+Depends: PeakABro
+License: Artistic-2.0
+organism: Hsapiens
+provider: HMDB
+provider_version: 4.0
+release_date: 2017-09-10
+resource_url: http://www.hmdb.ca
+biocViews: AnnotationData, CompoundDb, metabolomics
